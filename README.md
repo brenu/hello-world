@@ -1,2 +1,5 @@
 # hello-world
-Just my first repository
+
+Hi everyone!
+
+I'm brenu, I like infosec and...I love lasagna!!!
